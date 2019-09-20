@@ -5,4 +5,8 @@
 \dataset(copy)
 \indian-license-plates
 \OCRFILE
+*.jpg
+*.png
+*.jpeg
+*.h5
 
